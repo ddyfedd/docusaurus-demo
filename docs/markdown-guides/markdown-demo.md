@@ -124,7 +124,7 @@ ___
 ## Linkek (Links)
 
 Ez egy link a [Docusaurus hivatalos oldalára](https://docusaurus.io/).
-Ez egy relatív link egy [másik dokumentációs oldalra](./masik-oldal.md) (feltéve, hogy létezik).
+Ez egy relatív link egy [másik dokumentációs oldalra](./tovabbi-oldalak/masik-oldal.md) (feltéve, hogy létezik).
 Link hivatkozással:
 [Google][google-link]
 
